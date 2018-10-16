@@ -1,0 +1,10 @@
+F:\dotNET-CSCI504\Thomas_Assign2\Thomas_Assign2\bin\Debug\Thomas_Assign2.exe.config
+F:\dotNET-CSCI504\Thomas_Assign2\Thomas_Assign2\bin\Debug\Thomas_Assign2.exe
+F:\dotNET-CSCI504\Thomas_Assign2\Thomas_Assign2\bin\Debug\Thomas_Assign2.pdb
+F:\dotNET-CSCI504\Thomas_Assign2\Thomas_Assign2\obj\Debug\Thomas_Assign2.csprojResolveAssemblyReference.cache
+F:\dotNET-CSCI504\Thomas_Assign2\Thomas_Assign2\obj\Debug\Thomas_Assign2.Form1.resources
+F:\dotNET-CSCI504\Thomas_Assign2\Thomas_Assign2\obj\Debug\Thomas_Assign2.Properties.Resources.resources
+F:\dotNET-CSCI504\Thomas_Assign2\Thomas_Assign2\obj\Debug\Thomas_Assign2.csproj.GenerateResource.Cache
+F:\dotNET-CSCI504\Thomas_Assign2\Thomas_Assign2\obj\Debug\Thomas_Assign2.csproj.CoreCompileInputs.cache
+F:\dotNET-CSCI504\Thomas_Assign2\Thomas_Assign2\obj\Debug\Thomas_Assign2.exe
+F:\dotNET-CSCI504\Thomas_Assign2\Thomas_Assign2\obj\Debug\Thomas_Assign2.pdb
